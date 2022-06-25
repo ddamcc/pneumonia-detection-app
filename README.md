@@ -31,6 +31,7 @@ Here I have used Deep Learning model i.e. **Convolution Neural Network** for cla
 
 <h3>The X-Ray is Normal</h3>
 
-![Alt Text](D:/pneumonia detection/pneumonia-detection-app/Capture.JPG)
+![Capture](https://user-images.githubusercontent.com/76621987/175781127-3f3fa794-5cec-41c9-a345-7f44056e7b48.JPG)
+
 
 
