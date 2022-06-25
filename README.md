@@ -29,9 +29,11 @@ Here I have used Deep Learning model i.e. **Convolution Neural Network** for cla
 <h1>Output</h1>
 
 
-<h3>The X-Ray is Normal</h3>
+<h3>The X-Ray image is Normal</h3>
 
 ![Capture](https://user-images.githubusercontent.com/76621987/175781127-3f3fa794-5cec-41c9-a345-7f44056e7b48.JPG)
+
+<h3>The X-Ray image has Pneumonia</h3>
 
 
 
