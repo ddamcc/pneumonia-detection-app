@@ -17,5 +17,10 @@ It has two classes
 <h1>Dataset</h1>
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
+<hr>
+
+
+<h1>Models Used</h1>
+Here I have used Deep Learning model i.e. **Convolution Neural Network** for classifying the X-Ray Image.
 
 
