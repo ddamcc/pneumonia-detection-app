@@ -10,7 +10,9 @@ They are Train, Test and Validation.
 
 It has two classes
 
-**Normal : ** The X-Ray is Normal **Pneumonia : ** The X-Ray confirms Pneumonia
+**Normal : ** The X-Ray is Normal 
+
+**Pneumonia : ** The X-Ray confirms Pneumonia
 
 <hr>
 
