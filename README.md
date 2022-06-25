@@ -15,7 +15,7 @@ It has two classes
 
 
 <h1>Dataset</h1>
-(https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 
