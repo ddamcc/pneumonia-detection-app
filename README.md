@@ -36,5 +36,6 @@ Here I have used Deep Learning model i.e. **Convolution Neural Network** for cla
 
 <h3>The X-Ray image has Pneumonia</h3>
 
+![Capture1](https://user-images.githubusercontent.com/76621987/175781387-8ac082b9-0a5f-4f9b-944d-a3be3574936a.JPG)
 
 
